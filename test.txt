@@ -1,0 +1,14 @@
+total 992
+-rw-r--r--@ 1 rbutton  SEA\Domain Users   448K Mar 26 21:10 LearnRubyTheHardWay.pdf
+-rw-r--r--  1 rbutton  SEA\Domain Users    21B Mar 26 21:10 README.md
+-rw-r--r--  1 rbutton  SEA\Domain Users   267B Mar 26 21:10 ex10.rb
+-rw-r--r--  1 rbutton  SEA\Domain Users   228B Mar 26 21:10 ex11.rb
+-rw-r--r--  1 rbutton  SEA\Domain Users   334B Mar 26 21:10 ex12.rb
+-rw-r--r--  1 rbutton  SEA\Domain Users   325B May  9 11:36 ex13.rb
+-rw-r--r--  1 rbutton  SEA\Domain Users   505B Mar 26 21:10 ex14.rb
+-rw-r--r--  1 rbutton  SEA\Domain Users   264B Mar 26 21:10 ex15.rb
+-rw-r--r--  1 rbutton  SEA\Domain Users    96B Mar 26 21:10 ex15_sample.txt
+-rw-r--r--  1 rbutton  SEA\Domain Users   721B May  9 11:36 ex16.rb
+-rw-r--r--  1 rbutton  SEA\Domain Users   477B May  9 11:51 ex17.rb
+-rw-r--r--  1 rbutton  SEA\Domain Users   324B Mar 26 21:10 ex9.rb
+-rw-r--r--  1 rbutton  SEA\Domain Users     0B May  9 11:52 test.txt

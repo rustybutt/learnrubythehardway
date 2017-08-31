@@ -1,4 +1,4 @@
-user = ARGV
+user = ARGV.first
 prompt = '>'
 
 puts "Hi #{user}, I'm the #{$0} script."

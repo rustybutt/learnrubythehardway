@@ -7,10 +7,10 @@ my_teeth = 'White'
 my_hair = 'Brown'
 
 puts "Let's talk about %s." % my_name
-puts "I am %d inches tall." % my_height
+puts 'I am %d inches tall.' % my_height
 puts "I am %.2f pounds heavy." % my_weight
-puts "Actually that's not too heavy."
-puts "I've got %s eye and %s hair." % [my_eyes, my_hair]
+puts "Actually that\'s not too heavy."
+puts "I\'ve got %s eye and %s hair." % [my_eyes, my_hair]
 puts "My teeth are ususally %s depending on the tea." % my_teeth
 
 
